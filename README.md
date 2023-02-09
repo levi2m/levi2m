@@ -20,4 +20,5 @@ I'm always eager to take on new challenges and opportunities, and I'm confident 
   <img align="center" alt="levi2m-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="levi2m-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="levi2m-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="levi2m-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
