@@ -1,5 +1,7 @@
 # Welcome to my GitHub Profile!
 
+[![GitHub followers](https://img.shields.io/github/followers/levi2m.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/levi2m?tab=followers) [![Twitter Follow](https://img.shields.io/twitter/follow/levi2m.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/levi2m)
+
 I'm excited to be a part of the open-source community and share my experiences and knowledge with others. As a seasoned **Senior DevOps Engineer and Solutions Architect**, I'm passionate about utilizing technology to drive business growth and streamline operations 🚀.
 
 My expertise lies in developing and implementing effective cloud-based solutions, automating complex processes, and fostering collaboration between development and operations teams 💻💼. With a strong background in infrastructure design, deployment, and management, I have a proven track record of delivering scalable and reliable systems that meet business needs 💪.
