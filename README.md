@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything related to Cloud.**
 
-- 📫 How to reach me **levimmjn@gmail.com**
+- 📫 How to reach me **anywhere as @levi2m**
 
 - 📄 Know about my experiences [linkedin.com/in/levi2m](linkedin.com/in/levi2m)
 
