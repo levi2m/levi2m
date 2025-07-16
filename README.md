@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levi2m&label=Profile%20views&color=0e75b6&style=flat" alt="levi2m" /> </p>
 
-- 🔭 I’m currently working with [IGT](igt.com)
+- 🔭 I’m currently working with [IGT](https://igt.com)
 
 - 🌱 I’m currently learning **Azure, Terraform/Terragrunt and Bicep.**
 
-- 👨‍💻 All of my projects are available at [github.com/levi2m](github.com/levi2m)
+- 👨‍💻 All of my projects are available at [github.com/levi2m](https://github.com/levi2m?tab=repositories)
 
-- 📝 I regularly write strong thoughts on [reddit.com/levi2m](reddit.com/levi2m)
+- 📝 I regularly write strong thoughts on [reddit.com/levi2m](https://reddit.com/levi2m)
 
 - 💬 Ask me about **anything related to Cloud.**
 
 - 📫 How to reach me **anywhere as @levi2m**
 
-- 📄 Know about my experiences [linkedin.com/in/levi2m](linkedin.com/in/levi2m)
+- 📄 Know about my experiences [linkedin.com/in/levi2m](https://linkedin.com/in/levi2m)
 
 - ⚡ Fun fact **I think i'm funny.**
 
