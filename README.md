@@ -181,10 +181,6 @@ With **10+ years of experience** and multiple Azure certifications, I leverage e
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <h3>💡 "Security is not a product, but a process." - Bruce Schneier</h3>
-</div>
-
 ---
 
 <p align="center">
