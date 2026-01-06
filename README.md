@@ -159,6 +159,14 @@ With **10+ years of experience** and multiple Azure certifications, I leverage e
 
 ---
 
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
