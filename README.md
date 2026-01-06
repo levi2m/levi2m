@@ -151,14 +151,6 @@ With **10+ years of experience** and multiple Azure certifications, I leverage e
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=levi2m&theme=transparent" alt="GitHub Streak" /></a>
-</p>
-
----
-
 ## 📈 GitHub Metrics
 
 <p align="center">
