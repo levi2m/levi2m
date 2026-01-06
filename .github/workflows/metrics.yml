@@ -23,7 +23,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_timezone: America/New_York
+          config_timezone: America/Sao_Paulo
 
           # Calendar plugin
           plugin_calendar: yes
