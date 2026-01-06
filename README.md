@@ -154,18 +154,7 @@ With **10+ years of experience** and multiple Azure certifications, I leverage e
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=levi2m&theme=tokyonight&hide_border=true&border_radius=4.5&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=495" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=levi2m&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi2m&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=levi2m&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=levi2m&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 
 ---
